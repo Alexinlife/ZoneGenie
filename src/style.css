@@ -1,0 +1,31 @@
+.progress {
+    margin-top: 10%;
+    font-size: 18px;
+}
+
+.progress-label {
+    font-size: 18px;
+}
+
+.field { 
+    margin: 1% !important;
+    
+}
+
+.title {
+    margin: 0%;
+}
+
+.content {
+    width: 100%;
+}
+
+.generation {
+    margin-top: 1%;
+}
+
+p {
+    margin: 0%;
+    margin-bottom: 1%;
+    font-size: 24px;
+}
